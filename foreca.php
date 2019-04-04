@@ -1,5 +1,5 @@
 <?php
-require_once("/var/www/html/site/simple_html_dom.php");
+require_once("simple_html_dom.php");
 class Foreca
 {  
     public $html;
