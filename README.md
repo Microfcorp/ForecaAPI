@@ -1,4 +1,5 @@
 # ForecaAPI
+# Foreca API
 
 Неофициальное API для прогноза погоды Foreca.
 
